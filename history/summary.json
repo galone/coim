@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2690,
-    "timeDay": 1858,
-    "timeWeek": 2690,
-    "timeMonth": 2690,
-    "timeYear": 2690,
+    "time": 2536,
+    "timeDay": 2074,
+    "timeWeek": 2536,
+    "timeMonth": 2536,
+    "timeYear": 2536,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 851,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "time": 815,
+    "timeDay": 955,
+    "timeWeek": 815,
+    "timeMonth": 815,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 538,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "time": 492,
+    "timeDay": 653,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/activatuchip.movistar.com.ar",
     "slug": "web-multitramite",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2311,
-    "timeDay": 2053,
-    "timeWeek": 2311,
-    "timeMonth": 2311,
-    "timeYear": 2311,
+    "uptime": "92.35%",
+    "uptimeDay": "82.37%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "92.35%",
+    "time": 2077,
+    "timeDay": 2108,
+    "timeWeek": 2077,
+    "timeMonth": 2077,
+    "timeYear": 2077,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-04": 41,
+      "2022-02-03": 213
     }
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 48,
-    "timeDay": 58,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "time": 44,
+    "timeDay": 30,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44,
     "dailyMinutesDown": {}
   }
 ]
