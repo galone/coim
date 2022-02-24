@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/activatuchip.movistar.com.ar",
     "slug": "web-multitramite",
     "status": "up",
-    "uptime": "82.69%",
+    "uptime": "83.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "82.69%",
-    "uptimeYear": "82.69%",
+    "uptimeMonth": "83.19%",
+    "uptimeYear": "83.19%",
     "time": 1927,
     "timeDay": 2509,
     "timeWeek": 2114,
@@ -84,7 +84,7 @@
     "url": "https://exportaccount.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/exportaccount.herokuapp.com",
     "slug": "reporte-account",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -95,6 +95,8 @@
     "timeWeek": 181,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   }
 ]
