@@ -13,7 +13,11 @@ sites:
     url: https://activatuchip.movistar.com.ar/
   - name: ReporteAccount
     url: https://exportaccount.herokuapp.com/
-
+  - name: MTV
+    url: https://tienda.movistar.com.ar/movistartv
+  - name: Tienda
+    url: https://tienda.movistar.com.ar
+    
 assigners:
   - galone
 
